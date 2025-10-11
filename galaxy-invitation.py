@@ -257,7 +257,7 @@ footer = tk.Label(card, text="Made with ❤️ across the galaxy • 2025",
                   font=("Arial", 8), bg=CARD_BG, fg="#666")
 footer.place(relx=0.5, rely=0.95, anchor="center")
 
-# Info button (top right) - با رنگ زمینه کارت
+# Info button (top right)
 info_btn = tk.Button(card, text="ℹ️", bg=CARD_BG, fg=PRIMARY,
                     font=("Arial", 10, "bold"), command=show_about,
                     relief="flat", bd=0, cursor="hand2")
