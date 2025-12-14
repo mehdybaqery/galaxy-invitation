@@ -1,4 +1,4 @@
-///
+
 """
 Galaxy Date Invitation App
 A fun interactive dating invitation with cosmic theme
